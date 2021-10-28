@@ -32,7 +32,6 @@
 				<exclusion>
 					<groupId>commons-logging</groupId>
 					<artifactId>commons-logging</artifactId>
-					pratik
 				</exclusion>
 			</exclusions>
 		</dependency>
